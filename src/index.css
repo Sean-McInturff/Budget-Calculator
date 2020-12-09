@@ -76,10 +76,16 @@ input[type=number]::-webkit-outer-spin-button {
 
 .card h2 {
   margin: 1em;
+  text-align: center;
 }
 
 .card p {
   font-size: 20px;
+  text-align: center;
+}
+
+.category{
+  text-align: center;
 }
 
 @media (max-width: 800px ) {
